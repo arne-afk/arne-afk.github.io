@@ -1015,6 +1015,23 @@ ul.social-list li:nth-child(4) a:hover {
 
 
 }
+@media only screen and (max-height: 450px) {
+    .name, .email, .message {
+
+        padding: 0.5rem .1rem;
+
+        margin-bottom: 0.5rem;
+
+    }
+
+    .contact-content h2 {
+        margin-bottom: 1rem;
+    }
+    footer {
+        padding: 0 0;
+    }
+
+}
 
 
 
