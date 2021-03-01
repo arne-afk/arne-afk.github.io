@@ -679,7 +679,7 @@ section#contact {
     background-size: cover;
     backgrouund-attachment: fixed;
     position: relative;
-    overflow: hidden;
+    overflow-y: scroll;
 }
 .contact-content {
     display: flex;
