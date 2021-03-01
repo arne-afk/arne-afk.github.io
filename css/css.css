@@ -966,7 +966,7 @@ ul.social-list li:nth-child(4) a:hover {
     }
 
     .contact-content h2 {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 
     .footer-content {
@@ -1012,28 +1012,12 @@ ul.social-list li:nth-child(4) a:hover {
         margin-bottom: 1rem;
 
     }
-
-
-
-}
-@media only screen and (max-height: 450px) {
-    .name, .email, .message {
-        border: 1px solid white;
-        padding: 0.5rem .1rem;
-
-        margin-bottom: 0.5rem;
-
-    }
-
-    .contact-content h2 {
-        margin-bottom: 1rem;
-    }
     section#contact {
-        overflow-y: scroll;
-    }
+        overflow-y: scroll;}
 
 
 }
+
 
 
 
