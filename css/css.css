@@ -967,6 +967,7 @@ ul.social-list li:nth-child(4) a:hover {
 
     .contact-content h2 {
         font-size: 3rem;
+        white-space: nowrap;
     }
 
     .footer-content {
@@ -1006,7 +1007,7 @@ ul.social-list li:nth-child(4) a:hover {
     }
 
     .name, .email, .message {
-        border: 1px solid white;
+
         padding: 1rem .2rem;
 
         margin-bottom: 1rem;
