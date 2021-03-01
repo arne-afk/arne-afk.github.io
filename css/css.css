@@ -679,6 +679,7 @@ section#contact {
     background-size: cover;
     backgrouund-attachment: fixed;
     position: relative;
+    overflow: hidden;
 }
 .contact-content {
     display: flex;
