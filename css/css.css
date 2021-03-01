@@ -679,7 +679,7 @@ section#contact {
     background-size: cover;
     backgrouund-attachment: fixed;
     position: relative;
-    overflow-y: scroll;
+
 }
 .contact-content {
     display: flex;
@@ -1027,9 +1027,10 @@ ul.social-list li:nth-child(4) a:hover {
     .contact-content h2 {
         margin-bottom: 1rem;
     }
-    footer {
-        padding: 0 0;
+    section#contact {
+        overflow-y: scroll;
     }
+
 
 }
 
