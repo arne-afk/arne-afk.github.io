@@ -994,7 +994,27 @@ ul.social-list li:nth-child(4) a:hover {
         letter-spacing: 1.3rem;
     }
 }
+@media only screen and (max-height: 550px) {
+    .contact-content {
+        margin-bottom: 2rem;
+    }
 
+    .contact-content h2 {
+        font-size: 2.5rem;
+
+        font-weight: 250;
+    }
+
+    .name, .email, .message {
+
+        padding: 1rem .2rem;
+
+        margin-bottom: 1rem;
+
+    }
+
+
+}
 
 
 
