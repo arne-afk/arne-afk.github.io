@@ -1,0 +1,25 @@
+fonlar içn--> font.google.com (site)
+
+<--tarayıcıların getirdiği özellikleri kaldırma-->
+
+reset css
+normalize css
+
+
+<--f-->
+
+
+margin: sayfaya göre uzaklaştırır
+ 
+
+padding: bulunduğu kutucuğa div e göre uzaklaştırır
+
+
+
+kapsayan div relative
+kapsanan div absolute olursa 
+küçük div büyük dive göre ayarlanır
+
+
+
+overflow: hidden; --> hover bugu kenarına geldiğinde sürekli açılıp kapanıyor
